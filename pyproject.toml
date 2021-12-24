@@ -6,6 +6,7 @@ authors = ["Diogo Bispo <38961424+OfficialBispo@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+qbittorrent-api = "^2021.12.24"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
